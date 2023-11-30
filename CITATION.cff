@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Moore, LC"
+  given-names: "Lance"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+- family-names: "Moore"
+  given-names: "Lance"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "BreastNet"
+version: 1.0.0
+doi: 10.5281/zenodo.1234
+date-released: 2023-11-30
+url: "https://github.com/UCSD-Health-QUIVER/BreastNet"
